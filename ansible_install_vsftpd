@@ -1,4 +1,0 @@
-- hosts=web1
-  tasks:
-    - name: install vsftpd
-      yum: name=vsftpd state=installed
