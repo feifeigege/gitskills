@@ -5,10 +5,11 @@ import sys
 import urllib
 import requests
 import re
+import match
 import string
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "testing.settings")
-    print 'hello world'
+    print 'hello django'
     try:
         from django.core.management import execute_from_command_line
     except ImportError:
