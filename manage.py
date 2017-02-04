@@ -5,6 +5,7 @@ import sys
 import urllib
 import requests
 import re
+import string
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "testing.settings")
     print 'hello world'
