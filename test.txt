@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 hello
+=======
+test2
+>>>>>>> 11fdf6c2ab8570dbfbc0380107739186245d580f
